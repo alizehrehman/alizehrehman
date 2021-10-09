@@ -1,3 +1,4 @@
+![](https://github.com/alizehrehman/alizehrehman/blob/main/usa-san-francisco.jpeg)
 # Hi there! I'm Alizeh Rehman 👋
 [![LinkedIn](https://img.shields.io/badge/alizehrehman%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alizehrehman/)](https://www.linkedin.com/in/alizehrehman/)
 [![GitHub](https://img.shields.io/badge/alizehrehman%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/alizehrehman)](https://github.com/alizehrehman)
